@@ -1,0 +1,10 @@
+DB_HOST=localhost
+DB_PORT=5432
+DB_USERNAME=postgres
+DB_PASSWORD=2745
+DB_NAME=auth_sample
+APP_URL=http://localhost:3000
+SMTP_URL=smtps://bimto73@gmail.com:tstkfzwuykdapstn@smtp.gmail.com:465
+SMTP_USER=bimto73@gmail.com
+JWT_SECRET=H8JNJLDKZ3791zRJdjMsFRhcZOpYDfOmKlH0u+nBhhQ=
+TOTP_ENCRYPTION_KEY=WQVDsXltZ/zMvF4gS9Dpm14FrVwmO2hwqoMaJlL2lCQ=
